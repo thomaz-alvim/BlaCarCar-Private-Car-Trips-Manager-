@@ -32,5 +32,5 @@ class TestSistemaBlaCarCar {
 		int compatibilidade = sistema.calcularCompatibilidade("00000000001", indiceViagem);
 		assertEquals(compatibilidade, 0);
 	}
-
+ 
 }
